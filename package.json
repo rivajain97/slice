@@ -1,0 +1,11 @@
+{
+  "name": "slice",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "browserify sketch.js -o bundle.js"
+  },
+  "dependencies": {
+    "canvas-sketch": "^0.7.3",
+    "browserify": "^17.0.0"
+  }
+}
